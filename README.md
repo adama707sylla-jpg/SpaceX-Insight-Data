@@ -29,5 +29,7 @@ Ce projet utilise le Machine Learning pour prédire le succès de l'atterrissage
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Folium](https://img.shields.io/badge/folium-%2307405e.svg?style=for-the-badge&logo=folium&logoColor=white)
+![PandaSql](https://img.shields.io/badge/pandasql-%23150458.svg?style=for-the-badge&logo=pandasql&logoColor=white)
+![PlotyDash](https://img.shields.io/badge/PlotyDash-%23150458.svg?style=for-the-badge&logo=plotydash&logoColor=white)
 
-**Mots-clés :** #MachineLearning #RealEstate #GradientBoosting #DataEngineering #AutoML
+**Mots-clés :** #MachineLearning #RealEstate #K-Nearest Neighbors #DataEngineering #AutoML
