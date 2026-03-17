@@ -32,7 +32,7 @@ jobs:
       - uses: actions/checkout@v3
       
       - name: Build image
-        run: docker build -t api-sapceX .
+        run: docker build -t api-spacex .
 
   # ── JOB 3 : Deploy Render ──────────────────────────────
   deploy:
