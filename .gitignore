@@ -3,9 +3,5 @@ mlruns/
 __pycache__/
 *.ipynb
 .ipynb_checkpoints/
-*.csv
-*.db
-residu.png
-residus.png
-modele_final.pkl
-scaler_final.pkl
+
+
